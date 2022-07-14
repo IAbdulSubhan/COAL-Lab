@@ -1,1 +1,1 @@
-# COAL-Lab
+# Computer Organization and Assembly Language Lab
